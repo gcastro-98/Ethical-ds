@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Assignments (since they are solved in separated repo
+assignments/1_recividism
+assignments/recividism-savry-fairness
+
 # Distribution / packaging
 .Python
 build/
